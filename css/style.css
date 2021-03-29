@@ -357,9 +357,10 @@ text-align: center;
 }
 
 
-.s-icon ul li a i:hover{border:4px solid red;
+.s-icon ul li a i:hover{border:2px solid red;
 background-color: blue;
-color: red;}
+color: red;
+transition: .5s ease-in-out;}
 
 .s-icon ul li {list-style: none;
 display: inline-block;}
